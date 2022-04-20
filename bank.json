@@ -1,0 +1,15 @@
+{
+  "users": [
+    { "id": "235", "cash": -500, "credit": 1500 },
+    { "id": "231", "cash": 0, "credit": 0 },
+    { "id": "232", "cash": 0, "credit": 0 },
+    { "id": "210", "cash": 0, "credit": 0 },
+    { "id": "250", "cash": 0, "credit": 0 },
+    { "id": "255", "cash": 0, "credit": 0 },
+    { "id": "251", "cash": 0, "credit": 0 },
+    { "id": "253", "cash": 0, "credit": "1000" },
+    { "id": "254", "cash": 0, "credit": "1000" },
+    { "id": "220", "cash": 0, "credit": "1000" },
+    { "id": "211", "cash": 0, "credit": "1000" }
+  ]
+}
